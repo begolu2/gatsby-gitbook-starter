@@ -7,9 +7,9 @@ const config = {
   },
   header: {
     logo: 'http://www.unilians.fr/images/logo-unilians.png',
-    logoLink: 'https://hasura.io/learn/',
+    logoLink: 'http://www.unilians.fr',
     title:
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+      "<a href='http://www.unilians.fr'><img class='img-responsive' src='http://www.unilians.fr/images/logo-unilians.png' alt='Learn logo' /></a>",
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
     helpUrl: '',
     tweetText: '',
