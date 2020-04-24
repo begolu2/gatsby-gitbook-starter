@@ -10,7 +10,7 @@ const config = {
     logoLink: 'http://www.unilians.fr',
     title:
       "<a href='http://www.unilians.fr'><img class='img-responsive' src='http://www.unilians.fr/images/logo-unilians.png' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+    githubUrl: 'https://github.com/begolu2/gatsby-gitbook-starter',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -44,7 +44,7 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [{ text: 'Biogroup', link: 'https://www.biogroup-lcd.fr/' }],
     frontline: false,
     ignoreIndex: true,
     title:
@@ -54,7 +54,7 @@ const config = {
     title: 'Gatsby Gitbook Boilerplate | Hasura',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/begolu2/gatsby-gitbook-starter/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
